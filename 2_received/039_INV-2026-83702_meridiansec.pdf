@@ -1,0 +1,728 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0.0 0.0 792 612 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 5749
+>>
+stream
+q
+q
+0.00000000000000006123234 -1 1 0.00000000000000006123234 0.0 612 cm
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+BT
+/F1 7.5 Tf
+9 TL
+ET
+0.501961 0.501961 0.501961 rg
+BT
+1 0 0 1 54 36 Tm
+(SAMPLE INVOICE \055 FICTIONAL TEST DATA ONLY \055 NOT A REQUEST FOR PAYMENT) Tj
+T*
+ET
+BT
+1 0 0 1 534.2325 36 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 54 673.6 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 41 cm
+q
+0.121569 0.219608 0.392157 rg
+BT
+1 0 0 1 0 4 Tm
+/F2 14 Tf
+18 TL
+(Meridian Security Systems) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT
+1 0 0 1 0 27 Tm
+12 TL
+/F1 9 Tf
+0 0 0 rg
+(798 Cedar Court) Tj
+T*
+(Meridian\054 ID 83642) Tj
+T*
+(billing\100meridiansec\056example\056com) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 294 37 cm
+q
+0.121569 0.219608 0.392157 rg
+BT
+1 0 0 1 0 0 Tm
+/F2 22 Tf
+22 TL
+113.536 0 Td
+(INVOICE) Tj
+T*
+-113.536 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 659.6 cm
+Q
+q
+1 0 0 1 54 589.6 cm
+q
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 55 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(BILL TO) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 42 cm
+q
+BT
+1 0 0 1 0 3 Tm
+13 TL
+/F2 10 Tf
+0 0 0 rg
+(Attn\072) Tj
+/F1 10 Tf
+( jane\056porter\056attorney\100porterwade\056example\056com) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 29 cm
+q
+BT
+1 0 0 1 0 3 Tm
+13 TL
+/F1 10 Tf
+0 0 0 rg
+(Porter \046 Wade LLP) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT
+1 0 0 1 0 16 Tm
+13 TL
+/F1 10 Tf
+0 0 0 rg
+(802 Oak Drive\054 Suite 634) Tj
+T*
+(Greenville\054 SC 29601) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 315.6 13 cm
+q
+0 0 0 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 41 Tm
+(Invoice \043\072) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 85.2 41 Tm
+(INV\0552026\05583702) Tj
+T*
+ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 23 Tm
+(Invoice Date\072) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 85.2 23 Tm
+(August 15\054 2026) Tj
+T*
+ET
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 5 Tm
+(Due Date\072) Tj
+T*
+ET
+BT
+/F1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 85.2 5 Tm
+(September 15\054 2026) Tj
+T*
+ET
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 571.6 cm
+Q
+q
+1 0 0 1 54 365.4 cm
+q
+0.121569 0.219608 0.392157 rg
+n
+0 206.2 504 -18 re
+f*
+1 1 1 rg
+n
+0 188.2 504 -19 re
+f*
+0.94902 0.956863 0.972549 rg
+n
+0 169.2 504 -19 re
+f*
+1 1 1 rg
+n
+0 150.2 504 -19 re
+f*
+0.94902 0.956863 0.972549 rg
+n
+0 131.2 504 -19 re
+f*
+1 1 1 rg
+n
+0 112.2 504 -19 re
+f*
+0.94902 0.956863 0.972549 rg
+n
+0 93.2 504 -19 re
+f*
+1 1 1 rg
+n
+0 74.2 504 -19 re
+f*
+1 1 1 rg
+BT
+/F2 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 193.2 Tm
+(Description) Tj
+T*
+ET
+BT
+1 0 0 1 301.33 193.2 Tm
+(Qty) Tj
+T*
+ET
+BT
+1 0 0 1 357.72 193.2 Tm
+(Unit Price) Tj
+T*
+ET
+BT
+1 0 0 1 460.23 193.2 Tm
+(Amount) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 6 172.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 10 Tf
+13 TL
+(Bound printing\054 per copy \050August 2026\051) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 312.44 174.7 Tm
+(5) Tj
+T*
+ET
+BT
+1 0 0 1 373.82 174.7 Tm
+(\04412\05640) Tj
+T*
+ET
+BT
+1 0 0 1 467.42 174.7 Tm
+(\04462\05600) Tj
+T*
+ET
+q
+1 0 0 1 6 153.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 10 Tf
+13 TL
+(Records storage box\054 monthly \050August 2026\051) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 312.44 155.7 Tm
+(1) Tj
+T*
+ET
+BT
+1 0 0 1 379.38 155.7 Tm
+(\0441\05675) Tj
+T*
+ET
+BT
+1 0 0 1 472.98 155.7 Tm
+(\0441\05675) Tj
+T*
+ET
+q
+1 0 0 1 6 134.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 10 Tf
+13 TL
+(Firewall license renewal \050September 2026\051) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 312.44 136.7 Tm
+(4) Tj
+T*
+ET
+BT
+1 0 0 1 368.26 136.7 Tm
+(\044840\05600) Tj
+T*
+ET
+BT
+1 0 0 1 453.52 136.7 Tm
+(\0443\054360\05600) Tj
+T*
+ET
+q
+1 0 0 1 6 115.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 10 Tf
+13 TL
+(Records storage box\054 monthly \050September 2026\051) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 312.44 117.7 Tm
+(2) Tj
+T*
+ET
+BT
+1 0 0 1 379.38 117.7 Tm
+(\0441\05675) Tj
+T*
+ET
+BT
+1 0 0 1 472.98 117.7 Tm
+(\0443\05650) Tj
+T*
+ET
+q
+1 0 0 1 6 96.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 10 Tf
+13 TL
+(Same\055day document delivery \050October 2026\051) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 312.44 98.7 Tm
+(1) Tj
+T*
+ET
+BT
+1 0 0 1 373.82 98.7 Tm
+(\04485\05600) Tj
+T*
+ET
+BT
+1 0 0 1 467.42 98.7 Tm
+(\04485\05600) Tj
+T*
+ET
+q
+1 0 0 1 6 77.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 10 Tf
+13 TL
+(Access badge programming \050October 2026\051) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 312.44 79.7 Tm
+(5) Tj
+T*
+ET
+BT
+1 0 0 1 373.82 79.7 Tm
+(\04425\05600) Tj
+T*
+ET
+BT
+1 0 0 1 461.86 79.7 Tm
+(\044125\05600) Tj
+T*
+ET
+q
+1 0 0 1 6 58.2 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 10 Tf
+13 TL
+(Deposition transcript\054 per page \050September 2026\051) Tj
+T*
+ET
+Q
+Q
+BT
+1 0 0 1 306.88 60.7 Tm
+(12) Tj
+T*
+ET
+BT
+1 0 0 1 379.38 60.7 Tm
+(\0444\05625) Tj
+T*
+ET
+BT
+1 0 0 1 467.42 60.7 Tm
+(\04451\05600) Tj
+T*
+ET
+BT
+1 0 0 1 6 42.2 Tm
+T*
+ET
+BT
+1 0 0 1 318 42.2 Tm
+T*
+ET
+BT
+1 0 0 1 367.71 42.2 Tm
+(Subtotal) Tj
+T*
+ET
+BT
+1 0 0 1 453.52 42.2 Tm
+(\0443\054688\05625) Tj
+T*
+ET
+BT
+1 0 0 1 6 24.2 Tm
+T*
+ET
+BT
+1 0 0 1 318 24.2 Tm
+T*
+ET
+BT
+1 0 0 1 349.94 24.2 Tm
+(Tax \0508\05675\045\051) Tj
+T*
+ET
+BT
+1 0 0 1 461.86 24.2 Tm
+(\044322\05672) Tj
+T*
+ET
+BT
+1 0 0 1 6 5.6 Tm
+T*
+ET
+BT
+1 0 0 1 318 5.6 Tm
+T*
+ET
+BT
+/F2 11 Tf
+13.2 TL
+ET
+BT
+1 0 0 1 341.458 5.2 Tm
+(TOTAL DUE) Tj
+T*
+ET
+BT
+1 0 0 1 449.072 5.2 Tm
+(\0444\054010\05697) Tj
+T*
+ET
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.75 w
+n
+0 55.2 m
+504 55.2 l
+S
+0.121569 0.219608 0.392157 RG
+1 w
+n
+324 19.2 m
+504 19.2 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 60 345.4 cm
+Q
+q
+1 0 0 1 60 333.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9 Tf
+12 TL
+(Notes \057 Payment terms) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 60 321.4 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 9 Tf
+12 TL
+(Net 30\056 Test file for volume testing\056) Tj
+T*
+ET
+Q
+Q
+Q
+
+Q
+q
+1 0.0 0.0 1 0.0 0.0 cm
+0.0 0.0 792 612 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 14 Tf
+16.8 TL
+ET
+0.752941 0 0 rg
+0.752941 0 0 RG
+1.5 w
+n
+608.944 562 m
+764 562 l
+766.2112 562 768 563.7888 768 566 c
+768 584 l
+768 586.2112 766.2112 588 764 588 c
+608.944 588 l
+606.7328 588 604.944 586.2112 604.944 584 c
+604.944 566 l
+604.944 563.7888 606.7328 562 608.944 562 c
+h
+S
+BT
+1 0 0 1 612.944 570 Tm
+(RECEIVED 2026\05510\05502) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000411 00000 n 
+0000006212 00000 n 
+0000006319 00000 n 
+0000006426 00000 n 
+0000006538 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+6650
+%%EOF

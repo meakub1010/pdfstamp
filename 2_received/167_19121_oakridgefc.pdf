@@ -1,0 +1,1027 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 9844
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 54 36 Tm (SAMPLE INVOICE - FICTIONAL TEST DATA ONLY - NOT A REQUEST FOR PAYMENT) Tj T* ET
+BT 1 0 0 1 534.2325 36 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 54 673.6 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 41 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Oakridge Facility Care) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+BT 1 0 0 1 0 27 Tm 12 TL /F1 9 Tf 0 0 0 rg (864 River Road) Tj  T* (Milltown, PA 19020) Tj  T* (billing@oakridgefc.example.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 294 37 cm
+q
+.121569 .219608 .392157 rg
+BT 1 0 0 1 0 0 Tm /F2 22 Tf 22 TL 113.536 0 Td (INVOICE) Tj T* -113.536 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 659.6 cm
+Q
+q
+1 0 0 1 54 581.6 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 63 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (BILL TO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 50 cm
+q
+BT 1 0 0 1 0 3 Tm 13 TL /F2 10 Tf 0 0 0 rg (Attn:) Tj /F1 10 Tf ( t.baker.estates@bakerestate.example.com) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 37 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Baker Estate Law) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 11 cm
+q
+BT 1 0 0 1 0 16 Tm 13 TL /F1 10 Tf 0 0 0 rg (725 River Road, Suite 758) Tj  T* (Lakeview, IL 60614) Tj T* ET
+Q
+Q
+q
+1 0 0 1 315.6 3 cm
+q
+0 0 0 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 59 Tm (Invoice #:) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 85.2 59 Tm (19121) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 41 Tm (Invoice Date:) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 85.2 41 Tm (August 9, 2026) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 23 Tm (Due Date:) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 85.2 23 Tm (September 9, 2026) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm (PO #:) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 85.2 5 Tm (PO-36656) Tj T* ET
+q
+Q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 60 563.6 cm
+Q
+q
+1 0 0 1 54 70.6 cm
+q
+.121569 .219608 .392157 rg
+n 0 493 504 -18 re f*
+1 1 1 rg
+n 0 475 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 456 504 -19 re f*
+1 1 1 rg
+n 0 437 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 418 504 -19 re f*
+1 1 1 rg
+n 0 399 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 380 504 -19 re f*
+1 1 1 rg
+n 0 361 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 342 504 -19 re f*
+1 1 1 rg
+n 0 323 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 304 504 -19 re f*
+1 1 1 rg
+n 0 285 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 266 504 -19 re f*
+1 1 1 rg
+n 0 247 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 228 504 -19 re f*
+1 1 1 rg
+n 0 209 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 190 504 -19 re f*
+1 1 1 rg
+n 0 171 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 152 504 -19 re f*
+1 1 1 rg
+n 0 133 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 114 504 -19 re f*
+1 1 1 rg
+n 0 95 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 76 504 -19 re f*
+1 1 1 rg
+n 0 57 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 38 504 -19 re f*
+1 1 1 rg
+n 0 19 504 -19 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 480 Tm (Description) Tj T* ET
+BT 1 0 0 1 301.33 480 Tm (Qty) Tj T* ET
+BT 1 0 0 1 357.72 480 Tm (Unit Price) Tj T* ET
+BT 1 0 0 1 460.23 480 Tm (Amount) Tj T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 459 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Bound printing, per copy \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 461.5 Tm (10) Tj T* ET
+BT 1 0 0 1 373.82 461.5 Tm ($12.40) Tj T* ET
+BT 1 0 0 1 461.86 461.5 Tm ($124.00) Tj T* ET
+q
+1 0 0 1 6 440 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Records storage box, monthly \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 442.5 Tm (3) Tj T* ET
+BT 1 0 0 1 379.38 442.5 Tm ($1.75) Tj T* ET
+BT 1 0 0 1 472.98 442.5 Tm ($5.25) Tj T* ET
+q
+1 0 0 1 6 421 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Catered lunch, per person \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 423.5 Tm (1) Tj T* ET
+BT 1 0 0 1 373.82 423.5 Tm ($18.50) Tj T* ET
+BT 1 0 0 1 467.42 423.5 Tm ($18.50) Tj T* ET
+q
+1 0 0 1 6 402 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Carpet deep clean \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 404.5 Tm (2) Tj T* ET
+BT 1 0 0 1 368.26 404.5 Tm ($260.00) Tj T* ET
+BT 1 0 0 1 461.86 404.5 Tm ($520.00) Tj T* ET
+q
+1 0 0 1 6 383 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Records storage box, monthly \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 385.5 Tm (5) Tj T* ET
+BT 1 0 0 1 379.38 385.5 Tm ($1.75) Tj T* ET
+BT 1 0 0 1 472.98 385.5 Tm ($8.75) Tj T* ET
+q
+1 0 0 1 6 364 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Access badge programming \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 366.5 Tm (1) Tj T* ET
+BT 1 0 0 1 373.82 366.5 Tm ($25.00) Tj T* ET
+BT 1 0 0 1 467.42 366.5 Tm ($25.00) Tj T* ET
+q
+1 0 0 1 6 345 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Certified translation, per page \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 347.5 Tm (10) Tj T* ET
+BT 1 0 0 1 373.82 347.5 Tm ($32.00) Tj T* ET
+BT 1 0 0 1 461.86 347.5 Tm ($320.00) Tj T* ET
+q
+1 0 0 1 6 326 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Secure shredding bin \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 328.5 Tm (10) Tj T* ET
+BT 1 0 0 1 373.82 328.5 Tm ($45.00) Tj T* ET
+BT 1 0 0 1 461.86 328.5 Tm ($450.00) Tj T* ET
+q
+1 0 0 1 6 307 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Secure shredding bin \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 309.5 Tm (4) Tj T* ET
+BT 1 0 0 1 373.82 309.5 Tm ($45.00) Tj T* ET
+BT 1 0 0 1 461.86 309.5 Tm ($180.00) Tj T* ET
+q
+1 0 0 1 6 288 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Firewall license renewal \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 290.5 Tm (12) Tj T* ET
+BT 1 0 0 1 368.26 290.5 Tm ($840.00) Tj T* ET
+BT 1 0 0 1 447.96 290.5 Tm ($10,080.00) Tj T* ET
+q
+1 0 0 1 6 269 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Same-day document delivery \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 271.5 Tm (25) Tj T* ET
+BT 1 0 0 1 373.82 271.5 Tm ($85.00) Tj T* ET
+BT 1 0 0 1 453.52 271.5 Tm ($2,125.00) Tj T* ET
+q
+1 0 0 1 6 250 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Office cleaning visit \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 252.5 Tm (25) Tj T* ET
+BT 1 0 0 1 368.26 252.5 Tm ($180.00) Tj T* ET
+BT 1 0 0 1 453.52 252.5 Tm ($4,500.00) Tj T* ET
+q
+1 0 0 1 6 231 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Access badge programming \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 233.5 Tm (12) Tj T* ET
+BT 1 0 0 1 373.82 233.5 Tm ($25.00) Tj T* ET
+BT 1 0 0 1 461.86 233.5 Tm ($300.00) Tj T* ET
+q
+1 0 0 1 6 212 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Copy paper, letter, 10-ream case \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 214.5 Tm (1) Tj T* ET
+BT 1 0 0 1 373.82 214.5 Tm ($48.50) Tj T* ET
+BT 1 0 0 1 467.42 214.5 Tm ($48.50) Tj T* ET
+q
+1 0 0 1 6 193 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Court filing courier run \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 195.5 Tm (4) Tj T* ET
+BT 1 0 0 1 373.82 195.5 Tm ($65.00) Tj T* ET
+BT 1 0 0 1 461.86 195.5 Tm ($260.00) Tj T* ET
+q
+1 0 0 1 6 174 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Same-day document delivery \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 176.5 Tm (2) Tj T* ET
+BT 1 0 0 1 373.82 176.5 Tm ($85.00) Tj T* ET
+BT 1 0 0 1 461.86 176.5 Tm ($170.00) Tj T* ET
+q
+1 0 0 1 6 155 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Access badge programming \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 157.5 Tm (4) Tj T* ET
+BT 1 0 0 1 373.82 157.5 Tm ($25.00) Tj T* ET
+BT 1 0 0 1 461.86 157.5 Tm ($100.00) Tj T* ET
+q
+1 0 0 1 6 136 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Carpet deep clean \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 138.5 Tm (5) Tj T* ET
+BT 1 0 0 1 368.26 138.5 Tm ($260.00) Tj T* ET
+BT 1 0 0 1 453.52 138.5 Tm ($1,300.00) Tj T* ET
+q
+1 0 0 1 6 117 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Security camera maintenance \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 119.5 Tm (12) Tj T* ET
+BT 1 0 0 1 368.26 119.5 Tm ($210.00) Tj T* ET
+BT 1 0 0 1 453.52 119.5 Tm ($2,520.00) Tj T* ET
+q
+1 0 0 1 6 98 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Access badge programming \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 100.5 Tm (12) Tj T* ET
+BT 1 0 0 1 373.82 100.5 Tm ($25.00) Tj T* ET
+BT 1 0 0 1 461.86 100.5 Tm ($300.00) Tj T* ET
+q
+1 0 0 1 6 79 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Carpet deep clean \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 81.5 Tm (1) Tj T* ET
+BT 1 0 0 1 368.26 81.5 Tm ($260.00) Tj T* ET
+BT 1 0 0 1 461.86 81.5 Tm ($260.00) Tj T* ET
+q
+1 0 0 1 6 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Catered lunch, per person \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 62.5 Tm (3) Tj T* ET
+BT 1 0 0 1 373.82 62.5 Tm ($18.50) Tj T* ET
+BT 1 0 0 1 467.42 62.5 Tm ($55.50) Tj T* ET
+q
+1 0 0 1 6 41 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Toner cartridge, black \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 43.5 Tm (4) Tj T* ET
+BT 1 0 0 1 368.26 43.5 Tm ($139.00) Tj T* ET
+BT 1 0 0 1 461.86 43.5 Tm ($556.00) Tj T* ET
+q
+1 0 0 1 6 22 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Carpet deep clean \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 24.5 Tm (5) Tj T* ET
+BT 1 0 0 1 368.26 24.5 Tm ($260.00) Tj T* ET
+BT 1 0 0 1 453.52 24.5 Tm ($1,300.00) Tj T* ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Court filing courier run \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 5.5 Tm (4) Tj T* ET
+BT 1 0 0 1 373.82 5.5 Tm ($65.00) Tj T* ET
+BT 1 0 0 1 461.86 5.5 Tm ($260.00) Tj T* ET
+q
+Q
+Q
+Q
+ 
+
+Q
+q
+1 0.0 0.0 1 0.0 0.0 cm
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 14 Tf
+16.8 TL
+ET
+0.752941 0 0 rg
+0.752941 0 0 RG
+1.5 w
+n
+428.944 742 m
+584 742 l
+586.2112 742 588 743.7888 588 746 c
+588 764 l
+588 766.2112 586.2112 768 584 768 c
+428.944 768 l
+426.7328 768 424.944 766.2112 424.944 764 c
+424.944 746 l
+424.944 743.7888 426.7328 742 428.944 742 c
+h
+S
+BT
+1 0 0 1 432.944 750 Tm
+(RECEIVED 2026\05510\05502) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 11 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 12 0 R
+/F2 8 0 R
+/F2-0 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 9608
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7.5 Tf 9 TL ET
+.501961 .501961 .501961 rg
+BT 1 0 0 1 54 36 Tm (SAMPLE INVOICE - FICTIONAL TEST DATA ONLY - NOT A REQUEST FOR PAYMENT) Tj T* ET
+BT 1 0 0 1 534.2325 36 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 54 168.4 cm
+q
+.121569 .219608 .392157 rg
+n 0 567.2 504 -18 re f*
+1 1 1 rg
+n 0 549.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 530.2 504 -19 re f*
+1 1 1 rg
+n 0 511.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 492.2 504 -19 re f*
+1 1 1 rg
+n 0 473.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 454.2 504 -19 re f*
+1 1 1 rg
+n 0 435.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 416.2 504 -19 re f*
+1 1 1 rg
+n 0 397.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 378.2 504 -19 re f*
+1 1 1 rg
+n 0 359.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 340.2 504 -19 re f*
+1 1 1 rg
+n 0 321.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 302.2 504 -19 re f*
+1 1 1 rg
+n 0 283.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 264.2 504 -19 re f*
+1 1 1 rg
+n 0 245.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 226.2 504 -19 re f*
+1 1 1 rg
+n 0 207.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 188.2 504 -19 re f*
+1 1 1 rg
+n 0 169.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 150.2 504 -19 re f*
+1 1 1 rg
+n 0 131.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 112.2 504 -19 re f*
+1 1 1 rg
+n 0 93.2 504 -19 re f*
+.94902 .956863 .972549 rg
+n 0 74.2 504 -19 re f*
+1 1 1 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 554.2 Tm (Description) Tj T* ET
+BT 1 0 0 1 301.33 554.2 Tm (Qty) Tj T* ET
+BT 1 0 0 1 357.72 554.2 Tm (Unit Price) Tj T* ET
+BT 1 0 0 1 460.23 554.2 Tm (Amount) Tj T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 533.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Same-day document delivery \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 535.7 Tm (2) Tj T* ET
+BT 1 0 0 1 373.82 535.7 Tm ($85.00) Tj T* ET
+BT 1 0 0 1 461.86 535.7 Tm ($170.00) Tj T* ET
+q
+1 0 0 1 6 514.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Access badge programming \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 516.7 Tm (25) Tj T* ET
+BT 1 0 0 1 373.82 516.7 Tm ($25.00) Tj T* ET
+BT 1 0 0 1 461.86 516.7 Tm ($625.00) Tj T* ET
+q
+1 0 0 1 6 495.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Firewall license renewal \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 497.7 Tm (1) Tj T* ET
+BT 1 0 0 1 368.26 497.7 Tm ($840.00) Tj T* ET
+BT 1 0 0 1 461.86 497.7 Tm ($840.00) Tj T* ET
+q
+1 0 0 1 6 476.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Firewall license renewal \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 478.7 Tm (1) Tj T* ET
+BT 1 0 0 1 368.26 478.7 Tm ($840.00) Tj T* ET
+BT 1 0 0 1 461.86 478.7 Tm ($840.00) Tj T* ET
+q
+1 0 0 1 6 457.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Access badge programming \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 459.7 Tm (4) Tj T* ET
+BT 1 0 0 1 373.82 459.7 Tm ($25.00) Tj T* ET
+BT 1 0 0 1 461.86 459.7 Tm ($100.00) Tj T* ET
+q
+1 0 0 1 6 438.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Carpet deep clean \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 440.7 Tm (10) Tj T* ET
+BT 1 0 0 1 368.26 440.7 Tm ($260.00) Tj T* ET
+BT 1 0 0 1 453.52 440.7 Tm ($2,600.00) Tj T* ET
+q
+1 0 0 1 6 419.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Toner cartridge, black \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 421.7 Tm (25) Tj T* ET
+BT 1 0 0 1 368.26 421.7 Tm ($139.00) Tj T* ET
+BT 1 0 0 1 453.52 421.7 Tm ($3,475.00) Tj T* ET
+q
+1 0 0 1 6 400.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Certified translation, per page \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 402.7 Tm (10) Tj T* ET
+BT 1 0 0 1 373.82 402.7 Tm ($32.00) Tj T* ET
+BT 1 0 0 1 461.86 402.7 Tm ($320.00) Tj T* ET
+q
+1 0 0 1 6 381.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Firewall license renewal \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 383.7 Tm (4) Tj T* ET
+BT 1 0 0 1 368.26 383.7 Tm ($840.00) Tj T* ET
+BT 1 0 0 1 453.52 383.7 Tm ($3,360.00) Tj T* ET
+q
+1 0 0 1 6 362.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Bound printing, per copy \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 364.7 Tm (25) Tj T* ET
+BT 1 0 0 1 373.82 364.7 Tm ($12.40) Tj T* ET
+BT 1 0 0 1 461.86 364.7 Tm ($310.00) Tj T* ET
+q
+1 0 0 1 6 343.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Court filing courier run \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 345.7 Tm (2) Tj T* ET
+BT 1 0 0 1 373.82 345.7 Tm ($65.00) Tj T* ET
+BT 1 0 0 1 461.86 345.7 Tm ($130.00) Tj T* ET
+q
+1 0 0 1 6 324.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Carpet deep clean \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 326.7 Tm (4) Tj T* ET
+BT 1 0 0 1 368.26 326.7 Tm ($260.00) Tj T* ET
+BT 1 0 0 1 453.52 326.7 Tm ($1,040.00) Tj T* ET
+q
+1 0 0 1 6 305.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Bound printing, per copy \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 307.7 Tm (1) Tj T* ET
+BT 1 0 0 1 373.82 307.7 Tm ($12.40) Tj T* ET
+BT 1 0 0 1 467.42 307.7 Tm ($12.40) Tj T* ET
+q
+1 0 0 1 6 286.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Copy paper, letter, 10-ream case \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 288.7 Tm (1) Tj T* ET
+BT 1 0 0 1 373.82 288.7 Tm ($48.50) Tj T* ET
+BT 1 0 0 1 467.42 288.7 Tm ($48.50) Tj T* ET
+q
+1 0 0 1 6 267.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Firewall license renewal \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 269.7 Tm (3) Tj T* ET
+BT 1 0 0 1 368.26 269.7 Tm ($840.00) Tj T* ET
+BT 1 0 0 1 453.52 269.7 Tm ($2,520.00) Tj T* ET
+q
+1 0 0 1 6 248.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Firewall license renewal \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 250.7 Tm (25) Tj T* ET
+BT 1 0 0 1 368.26 250.7 Tm ($840.00) Tj T* ET
+BT 1 0 0 1 447.96 250.7 Tm ($21,000.00) Tj T* ET
+q
+1 0 0 1 6 229.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Certified translation, per page \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 231.7 Tm (2) Tj T* ET
+BT 1 0 0 1 373.82 231.7 Tm ($32.00) Tj T* ET
+BT 1 0 0 1 467.42 231.7 Tm ($64.00) Tj T* ET
+q
+1 0 0 1 6 210.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Managed IT support, monthly per workstation \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 212.7 Tm (5) Tj T* ET
+BT 1 0 0 1 373.82 212.7 Tm ($65.00) Tj T* ET
+BT 1 0 0 1 461.86 212.7 Tm ($325.00) Tj T* ET
+q
+1 0 0 1 6 191.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Certified translation, per page \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 193.7 Tm (25) Tj T* ET
+BT 1 0 0 1 373.82 193.7 Tm ($32.00) Tj T* ET
+BT 1 0 0 1 461.86 193.7 Tm ($800.00) Tj T* ET
+q
+1 0 0 1 6 172.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Certified translation, per page \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 174.7 Tm (4) Tj T* ET
+BT 1 0 0 1 373.82 174.7 Tm ($32.00) Tj T* ET
+BT 1 0 0 1 461.86 174.7 Tm ($128.00) Tj T* ET
+q
+1 0 0 1 6 153.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Records storage box, monthly \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 155.7 Tm (2) Tj T* ET
+BT 1 0 0 1 379.38 155.7 Tm ($1.75) Tj T* ET
+BT 1 0 0 1 472.98 155.7 Tm ($3.50) Tj T* ET
+q
+1 0 0 1 6 134.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Copy paper, letter, 10-ream case \(September 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 136.7 Tm (25) Tj T* ET
+BT 1 0 0 1 373.82 136.7 Tm ($48.50) Tj T* ET
+BT 1 0 0 1 453.52 136.7 Tm ($1,212.50) Tj T* ET
+q
+1 0 0 1 6 115.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Deposition transcript, per page \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 117.7 Tm (3) Tj T* ET
+BT 1 0 0 1 379.38 117.7 Tm ($4.25) Tj T* ET
+BT 1 0 0 1 467.42 117.7 Tm ($12.75) Tj T* ET
+q
+1 0 0 1 6 96.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Court filing courier run \(October 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 306.88 98.7 Tm (10) Tj T* ET
+BT 1 0 0 1 373.82 98.7 Tm ($65.00) Tj T* ET
+BT 1 0 0 1 461.86 98.7 Tm ($650.00) Tj T* ET
+q
+1 0 0 1 6 77.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Court filing courier run \(August 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 79.7 Tm (1) Tj T* ET
+BT 1 0 0 1 373.82 79.7 Tm ($65.00) Tj T* ET
+BT 1 0 0 1 467.42 79.7 Tm ($65.00) Tj T* ET
+q
+1 0 0 1 6 58.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 10 Tf 13 TL (Bound printing, per copy \(July 2026\)) Tj T* ET
+Q
+Q
+BT 1 0 0 1 312.44 60.7 Tm (3) Tj T* ET
+BT 1 0 0 1 373.82 60.7 Tm ($12.40) Tj T* ET
+BT 1 0 0 1 467.42 60.7 Tm ($37.20) Tj T* ET
+BT 1 0 0 1 6 42.2 Tm  T* ET
+BT 1 0 0 1 318 42.2 Tm  T* ET
+BT 1 0 0 1 367.71 42.2 Tm (Subtotal) Tj T* ET
+BT 1 0 0 1 447.96 42.2 Tm ($66,475.35) Tj T* ET
+BT 1 0 0 1 6 24.2 Tm  T* ET
+BT 1 0 0 1 318 24.2 Tm  T* ET
+BT 1 0 0 1 363.84 24.2 Tm (Tax \(0%\)) Tj T* ET
+BT 1 0 0 1 472.98 24.2 Tm ($0.00) Tj T* ET
+BT 1 0 0 1 6 5.6 Tm  T* ET
+BT 1 0 0 1 318 5.6 Tm  T* ET
+BT /F2 11 Tf 13.2 TL ET
+BT 1 0 0 1 341.458 5.2 Tm (TOTAL DUE) Tj T* ET
+BT 1 0 0 1 442.956 5.2 Tm ($66,475.35) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.75 w
+n 0 55.2 m 504 55.2 l S
+.121569 .219608 .392157 RG
+1 w
+n 324 19.2 m 504 19.2 l S
+Q
+Q
+Q
+q
+1 0 0 1 60 148.4 cm
+Q
+q
+1 0 0 1 60 136.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Notes / Payment terms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 60 124.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Net 30. Test file for volume testing.) Tj T* ET
+Q
+Q
+ 
+
+Q
+q
+1 0.0 0.0 1 0.0 0.0 cm
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 14 Tf
+16.8 TL
+ET
+0.752941 0 0 rg
+0.752941 0 0 RG
+1.5 w
+n
+428.944 742 m
+584 742 l
+586.2112 742 588 743.7888 588 746 c
+588 764 l
+588 766.2112 586.2112 768 584 768 c
+428.944 768 l
+426.7328 768 424.944 766.2112 424.944 764 c
+424.944 746 l
+424.944 743.7888 426.7328 742 428.944 742 c
+h
+S
+BT
+1 0 0 1 432.944 750 Tm
+(RECEIVED 2026\05510\05502) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000414 00000 n 
+0000010310 00000 n 
+0000010417 00000 n 
+0000010524 00000 n 
+0000010636 00000 n 
+0000010748 00000 n 
+0000010997 00000 n 
+0000020658 00000 n 
+0000020766 00000 n 
+trailer
+<<
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+20879
+%%EOF
