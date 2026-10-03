@@ -48,6 +48,7 @@ LOG = BASE / "stamp_log.csv"
 RED = "#C00000"
 BLUE = "#1F4E9A"
 MARGIN = 24  # points from the page edge (72 points = 1 inch)
+AUTO_PLACE = True  # put the seal in the emptiest spot (needs pypdfium2); False = always bottom-right
 
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+\-]+@[A-Za-z0-9.\-]+\.[A-Za-z]{2,}")
 ATTN_RE = re.compile(r"\b(?:attn|attention)\b\s*[:.\-]?", re.IGNORECASE)
@@ -131,6 +132,75 @@ def boxed_text(c, text, x, y, color, size=14):
     return bw, bh
 
 
+def find_blank_spot(pdf_path, page_index, block_w, block_h, dpi=36):
+    """Find the emptiest place on a page for a block of block_w x block_h points.
+
+    Renders the page (as viewed, rotation applied) to a small greyscale image,
+    slides the block over a grid and measures how much ink is under it.
+    Prefers the bottom-right when spots are about equally clear.
+    Returns (x, y, ink_pct) in points from the bottom-left, or None if the page
+    can't be rendered (the caller then uses the default bottom-right corner).
+    """
+    try:
+        import pypdfium2 as pdfium
+        from PIL import Image
+    except ImportError:
+        if not getattr(find_blank_spot, "warned", False):
+            print("  NOTE  pypdfium2 is not installed, so seals go bottom-right. "
+                  "Run: pip install pypdfium2")
+            find_blank_spot.warned = True
+        return None
+    try:
+        doc = pdfium.PdfDocument(str(pdf_path))
+        img = doc[page_index].render(scale=dpi / 72).to_pil().convert("L")
+        doc.close()
+    except Exception:
+        return None
+
+    cell = 4  # pixels per grid cell (8 points at 36 dpi)
+    gw, gh = img.width // cell, img.height // cell
+    if gw < 2 or gh < 2:
+        return None
+    # "Ink" = pixels clearly darker than the paper around them, so grey scans and
+    # coloured backgrounds still count as blank; very dark areas always count as ink.
+    from PIL import ImageChops, ImageFilter
+    paper = img.filter(ImageFilter.MaxFilter(9))          # local background brightness
+    contrast = ImageChops.subtract(paper, img).point(lambda v: 255 if v > 35 else 0)
+    solid = img.point(lambda v: 255 if v < 110 else 0)    # dark bars, logos, filled boxes
+    mask = ImageChops.lighter(contrast, solid)
+    vals = list(mask.resize((gw, gh), resample=Image.BOX).getdata())
+    # Integral image for fast rectangle sums.
+    integ = [[0] * (gw + 1) for _ in range(gh + 1)]
+    for r in range(gh):
+        row_sum = 0
+        for c in range(gw):
+            row_sum += vals[r * gw + c]
+            integ[r + 1][c + 1] = integ[r][c + 1] + row_sum
+
+    pt_per_cell = cell * 72 / dpi
+    bw = max(1, int(-(-block_w // pt_per_cell)))  # block size in cells, rounded up
+    bh = max(1, int(-(-block_h // pt_per_cell)))
+    m = max(1, int(-(-MARGIN // pt_per_cell)))    # keep clear of the page edge
+    if bw + 2 * m > gw or bh + 2 * m > gh:
+        return None
+
+    best = None
+    for top in range(m, gh - bh - m + 1):
+        for left in range(m, gw - bw - m + 1):
+            s = (integ[top + bh][left + bw] - integ[top][left + bw]
+                 - integ[top + bh][left] + integ[top][left])
+            ink_pct = s / (255 * bw * bh) * 100
+            # Tie-breaker: small penalty for distance from the bottom-right corner.
+            dist = (gw - m - (left + bw)) / gw + (gh - m - (top + bh)) / gh
+            score = ink_pct + dist * 0.5
+            if best is None or score < best[0]:
+                best = (score, left, top, ink_pct)
+    _, left, top, ink_pct = best
+    x = left * pt_per_cell
+    y = (gh - (top + bh)) * pt_per_cell  # flip: image rows run top-down
+    return x, y, ink_pct
+
+
 def list_pdfs(folder):
     return sorted(p for p in folder.iterdir() if p.suffix.lower() == ".pdf")
 
@@ -209,15 +279,34 @@ def approve(names=None, pages="last", user=None, date=None):
             print(f"  SKIP  {src.name}: already approved")
             continue
 
+        try:
+            total = len(open_pdf(src).pages)
+        except Exception as e:
+            print(f"  FAIL  {src.name}: {e}")
+            log("approve-failed", src, None, user, str(e))
+            continue
+        # Pages that get the seal, in the order stamp_pages draws them.
+        page_order = iter({"all": range(total), "first": [0], "last": [total - 1]}[pages])
+        placements = []
+
         def draw(c, w, h):
+            idx = next(page_order)
             sw = min(130.0, w * 0.22)  # seal width in points
             sh = sw * ih / iw
-            x = w - MARGIN - sw
-            y = MARGIN + 18
-            c.drawImage(seal, x, y, sw, sh, mask="auto")
+            cap_w = c.stringWidth(caption, "Helvetica-Bold", 8)
+            block_w, block_h = max(sw, cap_w), sh + 20  # seal + caption underneath
+            spot = find_blank_spot(src, idx, block_w, block_h) if AUTO_PLACE else None
+            if spot:
+                bx, by, ink = spot
+                placements.append(f"p{idx + 1}: {ink:.1f}% ink under seal")
+            else:  # default: bottom-right corner
+                bx, by = w - MARGIN - block_w, MARGIN - 2
+                placements.append(f"p{idx + 1}: bottom-right")
+            right = bx + block_w
+            c.drawImage(seal, right - sw, by + 20, sw, sh, mask="auto")
             c.setFont("Helvetica-Bold", 8)
             c.setFillColor(BLUE)
-            c.drawRightString(w - MARGIN, MARGIN + 4, caption)
+            c.drawRightString(right, by + 6, caption)
 
         try:
             n = stamp_pages(src, dst, draw, pages)
@@ -225,8 +314,9 @@ def approve(names=None, pages="last", user=None, date=None):
             print(f"  FAIL  {src.name}: {e}")
             log("approve-failed", src, None, user, str(e))
             continue
-        log("approved", src, dst, user, f"seal on {pages} page(s) of {n}")
-        print(f"  OK    {src.name}: seal added ({pages} page)")
+        where = "; ".join(placements)
+        log("approved", src, dst, user, f"seal on {pages} page(s) of {n}; {where}")
+        print(f"  OK    {src.name}: seal added ({where})")
         done += 1
     print(f"Done: {done} file(s) approved into {APPROVED}")
     return done

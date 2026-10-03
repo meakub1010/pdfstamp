@@ -1,0 +1,461 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 9931
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 18 Tf 21.6 TL ET
+.121569 .219608 .392157 rg
+BT 1 0 0 1 54 732 Tm (Test Vendor Co.) Tj T* ET
+BT 1 0 0 1 483.984 732 Tm (INVOICE) Tj T* ET
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 54 712 Tm (Invoice #: TST-1008) Tj T* ET
+BT 1 0 0 1 54 698 Tm (Attn: clerk.eight@example.com) Tj T* ET
+BT 1 0 0 1 54 684 Tm (120 Sample Street, Testville, NY 10001) Tj T* ET
+n 54 642 m 558 642 l S
+n 54 642 m 54 624 l S
+n 200 642 m 200 624 l S
+n 330 642 m 330 624 l S
+n 450 642 m 450 624 l S
+n 558 642 m 558 624 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 629 Tm (services matter legal invoic) Tj T* ET
+BT 1 0 0 1 525.088 629 Tm ($103.00) Tj T* ET
+n 54 624 m 558 624 l S
+n 54 624 m 54 606 l S
+n 200 624 m 200 606 l S
+n 330 624 m 330 606 l S
+n 450 624 m 450 606 l S
+n 558 624 m 558 606 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 611 Tm (client counsel delivery fili) Tj T* ET
+BT 1 0 0 1 525.088 611 Tm ($246.00) Tj T* ET
+n 54 606 m 558 606 l S
+n 54 606 m 54 588 l S
+n 200 606 m 200 588 l S
+n 330 606 m 330 588 l S
+n 450 606 m 450 588 l S
+n 558 606 m 558 588 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 593 Tm (balance payment schedule rec) Tj T* ET
+BT 1 0 0 1 525.088 593 Tm ($734.00) Tj T* ET
+n 54 588 m 558 588 l S
+n 54 588 m 54 570 l S
+n 200 588 m 200 570 l S
+n 330 588 m 330 570 l S
+n 450 588 m 450 570 l S
+n 558 588 m 558 570 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 575 Tm (review rate review filing) Tj T* ET
+BT 1 0 0 1 525.088 575 Tm ($304.00) Tj T* ET
+n 54 570 m 558 570 l S
+n 54 570 m 54 552 l S
+n 200 570 m 200 552 l S
+n 330 570 m 330 552 l S
+n 450 570 m 450 552 l S
+n 558 570 m 558 552 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 557 Tm (court payment statement term) Tj T* ET
+BT 1 0 0 1 525.088 557 Tm ($151.00) Tj T* ET
+n 54 552 m 558 552 l S
+n 54 552 m 54 534 l S
+n 200 552 m 200 534 l S
+n 330 552 m 330 534 l S
+n 450 552 m 450 534 l S
+n 558 552 m 558 534 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 539 Tm (agreement court records sche) Tj T* ET
+BT 1 0 0 1 525.088 539 Tm ($769.00) Tj T* ET
+n 54 534 m 558 534 l S
+n 54 534 m 54 516 l S
+n 200 534 m 200 516 l S
+n 330 534 m 330 516 l S
+n 450 534 m 450 516 l S
+n 558 534 m 558 516 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 521 Tm (schedule legal review accoun) Tj T* ET
+BT 1 0 0 1 525.088 521 Tm ($743.00) Tj T* ET
+n 54 516 m 558 516 l S
+n 54 516 m 54 498 l S
+n 200 516 m 200 498 l S
+n 330 516 m 330 498 l S
+n 450 516 m 450 498 l S
+n 558 516 m 558 498 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 503 Tm (records matter balance revie) Tj T* ET
+BT 1 0 0 1 525.088 503 Tm ($442.00) Tj T* ET
+n 54 498 m 558 498 l S
+n 54 498 m 54 480 l S
+n 200 498 m 200 480 l S
+n 330 498 m 330 480 l S
+n 450 498 m 450 480 l S
+n 558 498 m 558 480 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 485 Tm (matter account invoice clien) Tj T* ET
+BT 1 0 0 1 525.088 485 Tm ($362.00) Tj T* ET
+n 54 480 m 558 480 l S
+n 54 480 m 54 462 l S
+n 200 480 m 200 462 l S
+n 330 480 m 330 462 l S
+n 450 480 m 450 462 l S
+n 558 480 m 558 462 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 467 Tm (services invoice statement b) Tj T* ET
+BT 1 0 0 1 525.088 467 Tm ($441.00) Tj T* ET
+n 54 462 m 558 462 l S
+n 54 462 m 54 444 l S
+n 200 462 m 200 444 l S
+n 330 462 m 330 444 l S
+n 450 462 m 450 444 l S
+n 558 462 m 558 444 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 449 Tm (matter services legal accoun) Tj T* ET
+BT 1 0 0 1 525.088 449 Tm ($962.00) Tj T* ET
+n 54 444 m 558 444 l S
+n 54 444 m 54 426 l S
+n 200 444 m 200 426 l S
+n 330 444 m 330 426 l S
+n 450 444 m 450 426 l S
+n 558 444 m 558 426 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 431 Tm (invoice invoice account lega) Tj T* ET
+BT 1 0 0 1 525.088 431 Tm ($633.00) Tj T* ET
+n 54 426 m 558 426 l S
+n 54 426 m 54 408 l S
+n 200 426 m 200 408 l S
+n 330 426 m 330 408 l S
+n 450 426 m 450 408 l S
+n 558 426 m 558 408 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 413 Tm (invoice agreement terms invo) Tj T* ET
+BT 1 0 0 1 525.088 413 Tm ($670.00) Tj T* ET
+n 54 408 m 558 408 l S
+n 54 408 m 54 390 l S
+n 200 408 m 200 390 l S
+n 330 408 m 330 390 l S
+n 450 408 m 450 390 l S
+n 558 408 m 558 390 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 395 Tm (services balance statement b) Tj T* ET
+BT 1 0 0 1 525.088 395 Tm ($523.00) Tj T* ET
+n 54 390 m 558 390 l S
+n 54 390 m 54 372 l S
+n 200 390 m 200 372 l S
+n 330 390 m 330 372 l S
+n 450 390 m 450 372 l S
+n 558 390 m 558 372 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 377 Tm (legal delivery legal schedul) Tj T* ET
+BT 1 0 0 1 525.088 377 Tm ($125.00) Tj T* ET
+n 54 372 m 558 372 l S
+n 54 372 m 54 354 l S
+n 200 372 m 200 354 l S
+n 330 372 m 330 354 l S
+n 450 372 m 450 354 l S
+n 558 372 m 558 354 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 359 Tm (delivery counsel schedule pa) Tj T* ET
+BT 1 0 0 1 529.536 359 Tm ($17.00) Tj T* ET
+n 54 354 m 558 354 l S
+n 54 354 m 54 336 l S
+n 200 354 m 200 336 l S
+n 330 354 m 330 336 l S
+n 450 354 m 450 336 l S
+n 558 354 m 558 336 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 341 Tm (agreement filing court amoun) Tj T* ET
+BT 1 0 0 1 525.088 341 Tm ($355.00) Tj T* ET
+n 54 336 m 558 336 l S
+n 54 336 m 54 318 l S
+n 200 336 m 200 318 l S
+n 330 336 m 330 318 l S
+n 450 336 m 450 318 l S
+n 558 336 m 558 318 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 323 Tm (records hourly client amount) Tj T* ET
+BT 1 0 0 1 525.088 323 Tm ($318.00) Tj T* ET
+n 54 318 m 558 318 l S
+n 54 318 m 54 300 l S
+n 200 318 m 200 300 l S
+n 330 318 m 330 300 l S
+n 450 318 m 450 300 l S
+n 558 318 m 558 300 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 305 Tm (statement client court hourl) Tj T* ET
+BT 1 0 0 1 525.088 305 Tm ($907.00) Tj T* ET
+n 54 300 m 558 300 l S
+n 54 300 m 54 282 l S
+n 200 300 m 200 282 l S
+n 330 300 m 330 282 l S
+n 450 300 m 450 282 l S
+n 558 300 m 558 282 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 287 Tm (rate rate schedule services) Tj T* ET
+BT 1 0 0 1 525.088 287 Tm ($490.00) Tj T* ET
+n 54 282 m 558 282 l S
+n 54 282 m 54 264 l S
+n 200 282 m 200 264 l S
+n 330 282 m 330 264 l S
+n 450 282 m 450 264 l S
+n 558 282 m 558 264 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 269 Tm (counsel court amount service) Tj T* ET
+BT 1 0 0 1 525.088 269 Tm ($493.00) Tj T* ET
+n 54 264 m 558 264 l S
+n 54 264 m 54 246 l S
+n 200 264 m 200 246 l S
+n 330 264 m 330 246 l S
+n 450 264 m 450 246 l S
+n 558 264 m 558 246 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 251 Tm (counsel vendor client matter) Tj T* ET
+BT 1 0 0 1 525.088 251 Tm ($688.00) Tj T* ET
+n 54 246 m 558 246 l S
+n 54 246 m 54 228 l S
+n 200 246 m 200 228 l S
+n 330 246 m 330 228 l S
+n 450 246 m 450 228 l S
+n 558 246 m 558 228 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 233 Tm (schedule delivery matter rat) Tj T* ET
+BT 1 0 0 1 525.088 233 Tm ($925.00) Tj T* ET
+n 54 228 m 558 228 l S
+n 54 228 m 54 210 l S
+n 200 228 m 200 210 l S
+n 330 228 m 330 210 l S
+n 450 228 m 450 210 l S
+n 558 228 m 558 210 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 215 Tm (matter agreement legal filin) Tj T* ET
+BT 1 0 0 1 525.088 215 Tm ($668.00) Tj T* ET
+n 54 210 m 558 210 l S
+n 54 210 m 54 192 l S
+n 200 210 m 200 192 l S
+n 330 210 m 330 192 l S
+n 450 210 m 450 192 l S
+n 558 210 m 558 192 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 197 Tm (court period period statemen) Tj T* ET
+BT 1 0 0 1 525.088 197 Tm ($433.00) Tj T* ET
+n 54 192 m 558 192 l S
+n 54 192 m 54 174 l S
+n 200 192 m 200 174 l S
+n 330 192 m 330 174 l S
+n 450 192 m 450 174 l S
+n 558 192 m 558 174 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 179 Tm (filing court court court) Tj T* ET
+BT 1 0 0 1 525.088 179 Tm ($609.00) Tj T* ET
+n 54 174 m 558 174 l S
+n 54 174 m 54 156 l S
+n 200 174 m 200 156 l S
+n 330 174 m 330 156 l S
+n 450 174 m 450 156 l S
+n 558 174 m 558 156 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 161 Tm (records services legal rate) Tj T* ET
+BT 1 0 0 1 525.088 161 Tm ($163.00) Tj T* ET
+n 54 156 m 558 156 l S
+n 54 156 m 54 138 l S
+n 200 156 m 200 138 l S
+n 330 156 m 330 138 l S
+n 450 156 m 450 138 l S
+n 558 156 m 558 138 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 143 Tm (terms matter balance balance) Tj T* ET
+BT 1 0 0 1 525.088 143 Tm ($306.00) Tj T* ET
+n 54 138 m 558 138 l S
+n 54 138 m 54 120 l S
+n 200 138 m 200 120 l S
+n 330 138 m 330 120 l S
+n 450 138 m 450 120 l S
+n 558 138 m 558 120 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 125 Tm (terms terms amount account) Tj T* ET
+BT 1 0 0 1 525.088 125 Tm ($729.00) Tj T* ET
+n 54 120 m 558 120 l S
+n 54 120 m 54 102 l S
+n 200 120 m 200 102 l S
+n 330 120 m 330 102 l S
+n 450 120 m 450 102 l S
+n 558 120 m 558 102 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 107 Tm (vendor terms amount court) Tj T* ET
+BT 1 0 0 1 525.088 107 Tm ($530.00) Tj T* ET
+n 54 102 m 558 102 l S
+n 54 102 m 54 84 l S
+n 200 102 m 200 84 l S
+n 330 102 m 330 84 l S
+n 450 102 m 450 84 l S
+n 558 102 m 558 84 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 89 Tm (delivery counsel counsel per) Tj T* ET
+BT 1 0 0 1 525.088 89 Tm ($668.00) Tj T* ET
+n 54 84 m 558 84 l S
+n 54 84 m 54 66 l S
+n 200 84 m 200 66 l S
+n 330 84 m 330 66 l S
+n 450 84 m 450 66 l S
+n 558 84 m 558 66 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 71 Tm (court client amount terms) Tj T* ET
+BT 1 0 0 1 525.088 71 Tm ($151.00) Tj T* ET
+n 54 66 m 558 66 l S
+n 54 66 m 54 48 l S
+n 200 66 m 200 48 l S
+n 330 66 m 330 48 l S
+n 450 66 m 450 48 l S
+n 558 66 m 558 48 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 53 Tm (legal hourly terms delivery) Tj T* ET
+BT 1 0 0 1 525.088 53 Tm ($431.00) Tj T* ET
+n 54 48 m 558 48 l S
+n 54 48 m 54 30 l S
+n 200 48 m 200 30 l S
+n 330 48 m 330 30 l S
+n 450 48 m 450 30 l S
+n 558 48 m 558 30 l S
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 58 35 Tm (records agreement amount ven) Tj T* ET
+BT 1 0 0 1 525.088 35 Tm ($859.00) Tj T* ET
+ 
+
+Q
+q
+1 0.0 0.0 1 0.0 0.0 cm
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+BT
+/F2-0 14 Tf
+16.8 TL
+ET
+0.752941 0 0 rg
+0.752941 0 0 RG
+1.5 w
+n
+428.944 742 m
+584 742 l
+586.2112 742 588 743.7888 588 746 c
+588 764 l
+588 766.2112 586.2112 768 584 768 c
+428.944 768 l
+426.7328 768 424.944 766.2112 424.944 764 c
+424.944 746 l
+424.944 743.7888 426.7328 742 428.944 742 c
+h
+S
+BT
+1 0 0 1 432.944 750 Tm
+(RECEIVED 2026\05510\05501) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000407 00000 n 
+0000010390 00000 n 
+0000010497 00000 n 
+0000010604 00000 n 
+0000010716 00000 n 
+trailer
+<<
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+10828
+%%EOF
